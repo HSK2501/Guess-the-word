@@ -1,0 +1,15 @@
+package;
+
+import flixel.FlxGame;
+import openfl.display.Sprite;
+
+class Main extends Sprite
+{
+	public function new()
+	{
+		super();
+		HLDTLoader.init("assets.HLDT");
+
+		addChild(new FlxGame(1280, 720, MenuState));
+	}
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<app title="Word Guess Game" main="Main" file="WordGuessGame" packageName="com.example.wordguess" version="1.0.0" company="THPT Định Hóa,A4K65" />
+	
+	<window width="1280" height="720" fps="60" background="0x111111" hardware="true" vsync="true" fullscreen="false" resizable="true" />
+
+	<source path="source" />
+
+	<haxelib name="flixel" />
+
+    <assets path="assets" rename="assets" />
+<assets path="assets/fonts" rename="assets/fonts" />
+	<assets path="assets/images" rename="assets/images" />
+	<assets path="assets/sounds" rename="assets/sounds" />
+	<asset path="assets.HLDT" rename="assets.HLDT" embed="false" />
+
+	<icon path="assets/images/icon.png" />
+</project>

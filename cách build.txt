@@ -1,0 +1,8 @@
+1.chuẩn bị sẵn 3 thứ từ 3 link sau:
+-haxe:https://haxe.org/
+-git:https://git-scm.com/
+-Vs Code:https://code.visualstudio.com/
+2.cài đủ 3 thứ trên xong thì chạy lệnh "lime test windows" để build và kiểm tra xem có cần thêm lệnh "haxelib run lime setup" ko
+nếu ko build đc thì chạy lệnh đó.(Lưu ý:sau khi build thì copy file "assets.HLDT" và đặt vào file game.
+3.nếu muốn thêm tài nguyên cho game thì sau khi thêm ảnh,âm thanh,font chữ mới vào thư mục "assets" thì chạy "haxe --run HLDTPacker" để nó
+mã hóa tài nguyên vào file "assets.HLDT" và sau đó overwrite file này vào file có sẵn trong bản build game.

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="day2.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="0" y="0" width="493" height="493" frameX="-57" frameY="-57" frameWidth="606" frameHeight="606"/>
+	<SubTexture name="Symbol 10001" x="0" y="0" width="493" height="493" frameX="-57" frameY="-57" frameWidth="606" frameHeight="606"/>
+	<SubTexture name="Symbol 10002" x="493" y="0" width="513" height="513" frameX="-47" frameY="-47" frameWidth="606" frameHeight="606"/>
+	<SubTexture name="Symbol 10003" x="0" y="513" width="539" height="539" frameX="-34" frameY="-34" frameWidth="606" frameHeight="606"/>
+	<SubTexture name="Symbol 10004" x="539" y="513" width="566" height="566" frameX="-20" frameY="-20" frameWidth="606" frameHeight="606"/>
+	<SubTexture name="Symbol 10005" x="0" y="1079" width="586" height="586" frameX="-10" frameY="-10" frameWidth="606" frameHeight="606"/>
+	<SubTexture name="Symbol 10006" x="586" y="1079" width="606" height="606"/>
+	<SubTexture name="Symbol 10007" x="586" y="1079" width="606" height="606"/>
+	<SubTexture name="Symbol 10008" x="586" y="1079" width="606" height="606"/>
+	<SubTexture name="Symbol 10009" x="586" y="1079" width="606" height="606"/>
+	<SubTexture name="Symbol 10010" x="586" y="1079" width="606" height="606"/>
+	<SubTexture name="Symbol 10011" x="586" y="1079" width="606" height="606"/>
+	<SubTexture name="Symbol 10012" x="586" y="1079" width="606" height="606"/>
+</TextureAtlas>
