@@ -88,7 +88,7 @@ class PlayState extends FlxState
 	static inline function compose(v:Int, t:Int):Int
 		return VOWELS_LOWER[v].charCodeAt(t);
 
-    //thêm câu hỏi hay bớt tùy ý nhé đăng
+    //thêm câu hỏi hay bớt tùy ý nhé đăng(bạn của chủ sở hữu tài khoản github upload source code này)
 	private var questions:Array<QuestionData> = [
 		{question: "Câu 1: Trong Tây Tiến, hình ảnh “dốc lên khúc khuỷu, dốc thăm thẳm” góp phần tạo nên vẻ đẹp gì cho bức tranh thiên nhiên?", answer: "HÙNG VĨ"},
 		{question: "Câu 2: Những yếu tố như nhịp điệu, âm hưởng, sự phối hợp thanh bằng – trắc trong thơ tạo nên đặc điểm nghệ thuật này.", answer: "NHẠC TÍNH"},
